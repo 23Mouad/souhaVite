@@ -1,0 +1,132 @@
+{
+    "Navbar": {
+        "contact": "Contactez-nous",
+        "product": "Nos produits",
+        "home": "Accueil",
+        "location": "Localisation",
+        "heroContent1": "Nous sommes conscients que vous pourriez avoir des questions brûlantes ou toute sorte de choses qui vous traversent l'esprit. C'est pourquoi notre équipe d'experts se tient à votre disposition pour vous donner un coup de main lorsque vous en avez besoin.",
+        "heroContent2": "Nous prenons au sérieux la confiance que vous nous accordez lorsque vous partagez vos données personnelles avec nous. Nous traitons toujours vos données de manière juste, respectueuse, et proportionnée au but mentionné ci-dessus."
+    },
+
+    "Contact": {
+        "title": "Nos chéres clients.",
+
+        "content1": "Nous sommes conscients que vous pourriez avoir des questions brûlantes ou toute sorte de choses qui vous traversent l'esprit. C'est pourquoi notre équipe d'experts se tient à votre disposition pour vous donner un coup de main lorsque vous en avez besoin. ",
+
+        "content2": "Nous prenons au sérieux la confiance que vous nous accordez lorsque vous partagez vos données personnelles avec nous. Nous traitons toujours vos données de manière juste, respectueuse, et proportionnée au but mentionné ci-dessus.",
+
+        "emailTitle": "Envoyez-nous un email",
+        "emailContent": "Nous enverrons les réponses que vous cherchez directement dans votre boîte de réception.",
+
+        "phoneTitle": "Appelez-nous",
+        "phoneContent": "Nos conseillers sont disponibles du Dimanche au Jeudi de 8h à 18h et le vendredi de 8h à 16h en appelant le numéro suivant.",
+        "phoneContent2": "Nos conseillers sont disponibles du Dimanche au Jeudi de 8h à 18h et le vendredi de 8h à 16h .",
+
+        "locationTitle": "Ecrivez-nous",
+        "locationContent": "Vous recevrez nos conseils experts directement chez vous."
+    },
+    "Footer": {
+        "title": "Rejoignez-nous sur"
+    },
+    "Product": [
+        {
+            "id": "1",
+            "name": "Galette ",
+            "savor": "Biscuit au lait",
+
+            "nutritionalInfo": {
+                "energy": "475 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Farine de blé, sucre, graisse végétale, Sucre, invert sucre, lactosérum (lait), sel",
+                "additives": "Farine IV, sels, carbonates à code de sodium  E500 (ii), phosphorique acide di sodium",
+                "flavorings": "Beurre, vanilline, conservateur, enzyme",
+                "filling": "Sucre, graisse végétale, huile de palme, beurre de cacao naturel"
+            },
+            "rating": 5,
+            "pricee": "50"
+        },
+        {
+            "id": "2",
+            "name": "Biscuit Cacaoté",
+            "savor": " fourré crème saveur vanille",
+            "nutritionalInfo": {
+                "energy": "475 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Farine de blé, sucre, graisse végétale, Sucre, invert sucre, lactosérum, sel",
+                "additives": "Farine IV, carbonates à code de sodium  E500 (ii) \n, phosphorique acide di sodium",
+                "flavorings": "Beurre, vanilline, conservateur, enzyme",
+                "filling": "Sucre, graisse végétale, huile de palme, beurre de cacao naturel"
+            },
+            "rating": 1,
+            "pricee": "10"
+        },
+        {
+            "id": "3",
+            "name": "Biscuit fourré  ",
+            "savor": " crème saveur cacao",
+            "nutritionalInfo": {
+                "energy": "495.2 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Farine de blé, sucre, graisse végétale, Sucre, invert sucre, lactosérum (lait), sel",
+                "additives": "Farine IV, sels, carbonates à code de sodium  E500 (ii), phosphorique acide di sodium",
+                "flavorings": "Beurre, vanilline, conservateur, enzyme",
+                "filling": "Sucre, graisse végétale, huile de palme, beurre de cacao naturel"
+            },
+            "rating": 5,
+            "pricee": "10"
+        },
+        {
+            "id": "4",
+
+            "name": "Biscuit fourré",
+            "savor": " à la crème goût chocolat",
+            "nutritionalInfo": {
+                "energy": "479 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Farine de blé, sucre, graisse végétale, Sucre,  invert sucre, lactosérum, sel",
+                "additives": "Farine IV, carbonates à code de sodium  E500 (ii), phosphorique acide de sodium",
+                "flavorings": "Beurre, vanilline, conservateur, enzyme",
+                "filling": "Sucre, graisse végétale, huile de palme, beurre de cacao naturel"
+            },
+            "rating": 5,
+            "pricee": "50"
+        },
+        {
+            "energyTitle": "Energie",
+            "fatsTitle": "Lipides",
+            "carbohydratesTitle": "Glucides",
+            "proteinsTitle": "Protéines",
+            "saltTitle": "Sel",
+            "sugarsTitle": "Sucres",
+
+            "doughTitle": "Ingrédients Pate",
+            "additivesTitle": "Additifs alimentares",
+            "flavoringsTitle": "Arômes artificielle",
+            "fillingTitle": "Créme de fourrage:"
+        }
+    ]
+}

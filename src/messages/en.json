@@ -1,0 +1,131 @@
+{
+    "Navbar": {
+        "contact": "Contact",
+        "product": "Products",
+        "home": "Home",
+        "location": "Location",
+        "heroContent1": "We understand that you might have burning questions or other things running through your mind. That's why our team of experts are on hand to lend a hand when you need it.",
+        "heroContent2": "We take seriously the trust you place in us when you share your personal data with us. We always process your data fairly, respectfully, and proportionate to the purpose mentioned above."
+    },
+
+    "Contact": {
+        "title": "Our Dear Customers.",
+
+        "content1": "We are aware that you might have burning questions or all sorts of things on your mind. That is why our team of experts is at your disposal to give you a helping hand whenever you need it.",
+
+        "content2": "We take seriously the trust you place in us when you share your personal data with us. We always handle your data fairly, respectfully, and in a manner proportionate to the purpose mentioned above.",
+
+        "emailTitle": "Send Us an Email",
+        "emailContent": "We will send the answers you are looking for directly to your inbox.",
+
+        "phoneTitle": "Call Us",
+        "phoneContent": "Our advisors are available from Sunday to Thursday from 8 AM to 6 PM and on Friday from 8 AM to 4 PM at the following number.",
+        "phoneContent2": "Our advisors are available from Sunday to Thursday from 8 AM to 6 PM and on Friday from 8 AM to 4 PM .",
+
+        "locationTitle": "Write to Us",
+        "locationContent": "You will receive our expert advice directly at your home."
+    },
+    "Footer": {
+        "title": "Join us on"
+    },
+    "Product": [
+        {
+            "id": "1",
+
+            "name": " Galette",
+            "savor": "Milk biscuit",
+            "nutritionalInfo": {
+                "energy": "475 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Wheat flour, sugar, vegetable fat, Sugar, invert sugar, whey (milk), salt",
+                "additives": "Flour IV, salts, sodium carbonates code E500 (ii), disodium phosphoric acid",
+                "flavorings": "Butter, vanillin, preservative, enzyme",
+                "filling": "Sugar, vegetable fat, palm oil, natural cocoa butter"
+            },
+            "rating": 5,
+            "pricee": "50"
+        },
+        {
+            "id": "2",
+            "name": "Cacaoté Biscuit filled ",
+            "savor": "with cream vanilla flavor",
+            "nutritionalInfo": {
+                "energy": "475 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Wheat flour, sugar, vegetable fat, Sugar, invert sugar, whey, salt",
+                "additives": "Flour IV, sodium carbonates code E500 (ii), disodium phosphoric acid",
+                "flavorings": "Butter, vanillin, preservative, enzyme",
+                "filling": "Sugar, vegetable fat, palm oil, natural cocoa butter"
+            },
+            "rating": 1,
+            "pricee": "10"
+        },
+        {
+            "id": "3",
+            "name": "Biscuit filled ",
+            "savor": "with cream flavor cocoa",
+            "nutritionalInfo": {
+                "energy": "495.2 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Wheat flour, sugar, vegetable fat, Sugar, invert sugar, whey (milk), salt",
+                "additives": "Flour IV, salts, sodium carbonates code E500 (ii), disodium phosphoric acid",
+                "flavorings": "Butter, vanillin, preservative, enzyme",
+                "filling": "Sugar, vegetable fat, palm oil, natural cocoa butter"
+            },
+            "rating": 5,
+            "pricee": "10"
+        },
+        {
+            "id": "4",
+            "name": "Biscuit filled ",
+            "savor": "with cream chocolate taste",
+            "nutritionalInfo": {
+                "energy": "479 kcal",
+                "fats": "21 g",
+                "carbohydrates": "65.2 g",
+                "proteins": "7.2 g",
+                "salt": "0.107 g",
+                "sugars": "45.2 g"
+            },
+            "ingredients": {
+                "dough": "Wheat flour, sugar, vegetable fat, Sugar, invert sugar, whey, salt",
+                "additives": "Flour IV, sodium carbonates code E500 (ii), disodium phosphoric acid",
+                "flavorings": "Butter, vanillin, preservative, enzyme",
+                "filling": "Sugar, vegetable fat, palm oil, natural cocoa butter"
+            },
+            "rating": 5,
+            "pricee": "50"
+        },
+        {
+            "energyTitle": "Energy",
+            "fatsTitle": "Fat",
+            "carbohydratesTitle": "Carbohydrates",
+            "proteinsTitle": "Proteins",
+            "saltTitle": "Salt",
+            "sugarsTitle": "Sugars",
+
+            "doughTitle": "Dough Ingredients",
+            "additivesTitle": "Food additives",
+            "flavoringsTitle": "Artificial flavors",
+            "fillingTitle": "Cream filling:"
+        }
+    ]
+}
